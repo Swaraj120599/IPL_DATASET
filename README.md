@@ -1,8 +1,31 @@
 # IPL_DATASET
 
+The Indian Premier League (IPL), which features elite cricket players and draws sizable crowds, has become one of the world's most watched cricket competitions. In order to gain insight into player performance, team dynamics, and match outcomes, this project will use MySQL, Power BI, and Excel for analysing data from the last three IPL seasons.
+The file contains all the meta information regarding the columns described in the CSV files. We have provided 4 CSV files:
+Batting_summary
+Match_summary
+Players
+Key Insights:
+TEAM INSIGHTS:
 
+CSK scored highest runs (7372).
+GT has the best batting average with 32.28.
+CSK with the highest batting strike rate, 139.54.
+RR has highest boundary% (64.53%).
+BATTING INSIGHTS
 
-
+Gill scored 1851 in his last 3 seasons.(2023 orange cup winner).
+Klassen has the best strike rate (177.08).
+KL Rahul has the best batting average (51).
+Green has the highest boundary (65%).
+Faf has hit 169 sixes in the last 3 seasons.
+Gill has hit 186 fours in the last 3 seasons.
+BOWLING INSIGHTS
+1.Shami has taken 67 wickets in last 3 seasons
+Sunil Narine has best economy 6.6
+3.Shami bowled 47.65% dot ball.
+Krunal Panda bowled with a 23.42 bowling average.
+Chahal conceded most boundaries (82 4s + 59 6s).
 
 
 
