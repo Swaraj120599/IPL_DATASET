@@ -1,4 +1,5 @@
 # IPL_DATASET
+Query Task
 
 The Indian Premier League (IPL), which features elite cricket players and draws sizable crowds, has become one of the world's most watched cricket competitions. In order to gain insight into player performance, team dynamics, and match outcomes, this project will use MySQL, Power BI, and Excel for analysing data from the last three IPL seasons.
 The file contains all the meta information regarding the columns described in the CSV files. We have provided 4 CSV files:
@@ -39,7 +40,7 @@ Chahal conceded most boundaries (82 4s + 59 6s).
 
 
 
-Query Task
+
 
  Question1. List all matches played in the year 2021.
  
