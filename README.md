@@ -20,16 +20,16 @@ Query Task
 
  Question1. List all matches played in the year 2021.
  
-[Question 1](https://github.com/user-attachments/assets/595700f8-0f7d-45ce-b76a-57b6271329a6)
+![Question 1](https://github.com/user-attachments/assets/595700f8-0f7d-45ce-b76a-57b6271329a6)
 
 Question2. Find the details of matches where "CSK" was one of the teams.
 
-[Question 2](https://github.com/user-attachments/assets/06d3da7f-981e-4c52-8bb0-a363e22fd145)
+![Question 2](https://github.com/user-attachments/assets/06d3da7f-981e-4c52-8bb0-a363e22fd145)
 
 
 Question3. Retrieve all batsmen who scored more than 50 runs in a match.
 
-[Question 3](https://github.com/user-attachments/assets/511238b3-3dc6-4db4-b418-32b94fe2bb52)
+![Question 3](https://github.com/user-attachments/assets/511238b3-3dc6-4db4-b418-32b94fe2bb52)
 
 Question4. Find all players from the "CSK" team in the players dataset.
 
