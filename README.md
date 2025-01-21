@@ -1,12 +1,23 @@
 # IPL_DATASET
-Query Task
 
+# Project Overview:
 The Indian Premier League (IPL), which features elite cricket players and draws sizable crowds, has become one of the world's most watched cricket competitions. In order to gain insight into player performance, team dynamics, and match outcomes, this project will use MySQL, Power BI, and Excel for analysing data from the last three IPL seasons.
 The file contains all the meta information regarding the columns described in the CSV files. We have provided 4 CSV files:
 Batting_summary
 Match_summary
 Players
-Key Insights:
+
+# Project Objective:
+1.Learning SQL Fundamentals: Practice basic SQL queries such as SELECT, INSERT, UPDATE, and DELETE. Understand the structure of relational databases and the importance of data integrity.
+
+2.Understanding Relationships: Explore how tables in a relational database are connected through primary and foreign keys. Learn to join tables to retrieve related data from multiple tables.
+
+3.Demonstrating Data Management: Simulate real-world scenarios such as managing customer orders, tracking product inventory, and handling payments. Understand the role of each entity in a typical business database model.
+
+4.Performance Optimization: Practice writing efficient SQL queries to retrieve data quickly and accurately. Learn about indexing, data normalization, and other optimization techniques.
+
+
+# Key Insights:
 TEAM INSIGHTS:
 
 CSK scored highest runs (7372).
@@ -28,6 +39,7 @@ Sunil Narine has best economy 6.6
 Krunal Panda bowled with a 23.42 bowling average.
 Chahal conceded most boundaries (82 4s + 59 6s).
 
+# Tools & Library Used
 
 
 
@@ -39,8 +51,7 @@ Chahal conceded most boundaries (82 4s + 59 6s).
 
 
 
-
-
+# Query Task
 
  Question1. List all matches played in the year 2021.
  
